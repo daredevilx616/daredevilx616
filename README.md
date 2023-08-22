@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Abdullah Nasir.
 - 👀 I’m interested in learning new things about technology or anything related to coding.
-- 🌱 I’m currently working as a CPS Data Analyst Co-Op @The Coca-Cola Company.
+- 🌱 I’m currently working as a CPS Data Engineer Co-Op @The Coca-Cola Company.
 - 📫 How to reach me: You can reach me on my Twitter or you can also email me at: abdullahnasirpti@gmail.com
 
 <!---
