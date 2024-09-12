@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Muhammad Abdullah Nasir.
 - 👀 I’m interested in learning new things about technology or anything related to coding.
 - 🌱 I worked as a Data Engineer Co-Op and Intern @The Coca-Cola Company.
-- 📫 How to reach me: You can reach me on daredevilx616.github.io or you can also email me at: abdullahnasirpti@gmail.com
+- 📫 How to reach me: You can reach me on https://daredevilx616.github.io/ or you can also email me at: abdullahnasirpti@gmail.com
 
 
 ## 🌐 Socials:
